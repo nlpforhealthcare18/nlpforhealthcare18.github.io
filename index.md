@@ -7,10 +7,10 @@
 <br><br>
 
 
-<p align="center"> 
+
 
 ![](https://datasciencecampus.ons.gov.uk/wp-content/uploads/sites/10/2017/03/data-science-icons-630x384-2-630x384.jpg)
-</p>
+
 
 
  
