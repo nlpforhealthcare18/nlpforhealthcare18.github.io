@@ -94,11 +94,13 @@ Newport NP10 8XG
 ### Support 
 Having trouble with anything? Please talk to one of the helpful people organizing the workshop.
 
-![](https://s14.postimg.org/7jj4djf3h/slack-icon-10645.png)
+
 
 Whatever it is, we’ll help you sort it out.
 
 ### Cooperate  
+
+![](https://s14.postimg.org/7jj4djf3h/slack-icon-10645.png)
 
 You can also log in on the 
 
