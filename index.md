@@ -9,7 +9,7 @@
 
 
 
-![](http://github.com/nlpforhealthcare18/nlpforhealthcare18.github.io/blob/master/DSCTransparent.png)
+![](https://github.com/nlpforhealthcare18/nlpforhealthcare18.github.io/blob/master/DSCTransparent.png)
 
 
 
