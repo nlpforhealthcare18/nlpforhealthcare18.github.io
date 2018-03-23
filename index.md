@@ -15,7 +15,7 @@
 
  
 
-### Why a NLP for Healthcare Workshop?
+### Why ?
 <br><br>
 
 blah
@@ -49,14 +49,6 @@ blah
 
 We’re working on open data at this workshop, and we love open data. However, we also need to recognise that we’re still at work as Civil Servants, and so need to reflect this in the way we handle this data, the analysis we carry out, and the way we talk about the findings. 
 
-Strict ethical considerations have been adhered to at all times in order to ensure citizens privacy is protected. The aim is to identify themes and patterns in order to improve good government, not compromise trust or privacy. 
-
-Please bear this in mind when performing analysis and data gathering. At no stage should individual details be stored beyond obtaining raw data or shared. Prior to the event, please read our guidance regarding ethical use of data. 
-
-
-- ONS guidance on webscraping.  You have received this on a recent email. Not online since its not published yet.Please do not share this more widely
-
-- Please also see the Cabinet Office [Data Science Ethical Framework](https://data.blog.gov.uk/wp-content/uploads/sites/164/2015/12/Data-science-ethics-short-for-blog-1.pdf)
 
 
 <br><br>
