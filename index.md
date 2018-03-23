@@ -91,13 +91,17 @@ Newport NP10 8XG
 
 
 
-### Support or Contact us
+### Support 
 Having trouble with anything? Please talk to one of the helpful people organizing the workshop.
 
 ![](https://s14.postimg.org/7jj4djf3h/slack-icon-10645.png)
+
+Whatever it is, we’ll help you sort it out.
+
+### Cooperate  
 
 You can also log in on the 
 
 [NLP Workshop channel on the Goverment Data Science Slack](https://govdatascience.slack.com/messages/G9U8FQ11A/).    
 
-Whatever it is, we’ll help you sort it out.
+
