@@ -9,7 +9,7 @@
 
 
 
-![](https://datasciencecampus.ons.gov.uk/wp-content/uploads/sites/10/2017/03/data-science-icons-630x384-2-630x384.jpg)
+![](https://github.com/nlpforhealthcare18/nlpforhealthcare18.github.io/blob/master/DSCTransparent.png)
 
 
 
