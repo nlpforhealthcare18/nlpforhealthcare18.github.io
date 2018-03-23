@@ -2,15 +2,15 @@
 <p align="center"> Welcome to the NLP for Healthcare Workshop 2018 </p>
 </h3>
 
-<p align="center"> 
-</p>
+
 
 <br><br>
 
 
+<p align="center"> 
 
-![](https://github.com/nlpforhealthcare18/nlpforhealthcare18.github.io/blob/master/DSCTransparent.png)
-
+![](https://datasciencecampus.ons.gov.uk/wp-content/uploads/sites/10/2017/03/data-science-icons-630x384-2-630x384.jpg)
+</p>
 
 
  
