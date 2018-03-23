@@ -7,7 +7,7 @@
 
 <br><br>
 
-###  Thank you for taking part in the NLP for Healthcare Workshop
+
 
 ![](https://datasciencecampus.ons.gov.uk/wp-content/uploads/sites/10/2017/03/data-science-icons-630x384-2-630x384.jpg)
 
@@ -62,6 +62,16 @@ Please bear this in mind when performing analysis and data gathering. At no stag
 <br><br>
 ### Topics
 
+<br><br>
+
+
+<br><br>
+
+
+<br><br>
+
+
+<br><br>
 
 ### Location
 <br><br>
@@ -86,6 +96,8 @@ Having trouble with anything? Please talk to one of the helpful people organizin
 
 ![](https://s14.postimg.org/7jj4djf3h/slack-icon-10645.png)
 
-You can also log in on the [NLP Workshop channel on the Goverment Data Science Slack](https://govdatascience.slack.com/messages/G9U8FQ11A/).    
+You can also log in on the 
+
+[NLP Workshop channel on the Goverment Data Science Slack](https://govdatascience.slack.com/messages/G9U8FQ11A/).    
 
 Whatever it is, we’ll help you sort it out.
