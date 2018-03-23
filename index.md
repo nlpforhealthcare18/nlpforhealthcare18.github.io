@@ -9,7 +9,7 @@
 
 ###  Thank you for taking part in the NLP for Healthcare Workshop
 
-![](https://s12.postimg.org/w4ve0lkfx/OPENHackathon.jpg)
+![](https://datasciencecampus.ons.gov.uk/wp-content/uploads/sites/10/2017/03/data-science-icons-630x384-2-630x384.jpg)
 
 
 
@@ -18,6 +18,7 @@
 ### Why a NLP for Healthcare Workshop?
 <br><br>
 
+blah
 
 
 
