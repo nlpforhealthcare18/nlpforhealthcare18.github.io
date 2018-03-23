@@ -15,10 +15,10 @@
 
  
 
-### Why ?
+### Aims
 <br><br>
 
-blah
+To establish a collaborative working group across government to explore the use of NLP methods with health and social care data, develop skills in NLP techniques by working to toegther to learn through direct application to a reserarch question, gain understanding about challenges and suitablitity of NLP for pulic sector analytics, identify opportunities for future research with clear actionable taregts for next steps. 
 
 
 
@@ -26,17 +26,36 @@ blah
 ### Agenda
 <br><br>
 
+#### Day 1
+
 | Time          |      Activity              |
 | ------------- | ---------------------------|
 | 09.30 - 10:00 | Arrival and registration   |
-| 10:00 - 10:10 | Welcome, plan for the day, and logistics  |
-| 10.10 - 10:40 | Introduce the questions/projects   |
-| 10:40 - 11:00 |   |
-| 11:00 – 17:30 | |
-| 17:30 – 17:40 |  |
-| 17:40 – 18:40 |   |
-| 18:40 – 18:50 |   |
-| 18:50 – 19:00 |   |
+| 10:00         | Welcome, plan for the day, and logistics  |
+| 10:10         | Introductions   |
+| 10:30         | Collaborative working  |
+| 11:15         | Data Preperation |
+| 12:30 - 13:00 | Lunch |
+| 13:00         | Data Cleaning  |
+| 15:00         | Break  |
+| 15:30         | Understanding the Data  |
+| 17:30         | Wrap Up |
+| 18:00         | Optional extended working and socialising |
+
+#### Day 2
+
+| Time          |      Activity              |
+| ------------- | ---------------------------|
+| 08.30 - 09:00 | Coffee and catch up   |
+| 09:00         | Data Analysis |
+| 12:00 - 12:30 | Lunch |
+| 12:30         | Data Analysis  |
+| 14:00         | Outputs and Visualisation |
+| 15:30         | Break  |
+| 16:00         | Wrap Up  |
+| 17:00         | Next Steps |
+| 17:30         | End |
+
 
 <br>
 
