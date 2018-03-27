@@ -17,9 +17,8 @@
 
 ### Aims
 <br><br>
-Over this two day workshop we are aiming to establish a collaborative working group across government to explore the use of NLP methods with health and social care data; as well as developing skills in NLP techniques by working to toegther to learn through direct application to a reserarch question. We are aiming to gain understanding about challenges and suitablitity of NLP for pulic sector analytics, identify opportunities for future research with clear actionable targets for next steps and build capability. 
-
-
+Over this two day workshop we are aiming to establish a collaborative working group across government to explore the use of NLP methods with health and social care data; as well as develop skills in NLP techniques by working to toegther to learn through direct application to a reserarch question. We are aiming to gain understanding around the challenges and suitablitity of NLP for pulic sector analytics; identify opportunities for future research with clear actionable targets for next steps and build capability. 
+<br><br>
 
 ### Agenda
 <br><br>
@@ -71,16 +70,31 @@ We love open data! Fortunately, on this workship all data we are working with is
 <br><br>
 ### Topics
 
-<br><br>
+During the workshop we are going to cover the topics of:
 
 
-<br><br>
+**Data preperation**
+
+Dealing with, preparing and tokenizing unstructured data
 
 
-<br><br>
+**Data cleansing**
+
+Stop words, stemming, and other cleaning methods
 
 
-<br><br>
+**Understanding the data**
+
+Identifing themes within the data, autoclassification
+
+
+**Data analysis**
+
+Topic Modelling/ Bayes Classifer 
+
+
+With the aim to answer questions such as:
+**Can we identify specific themes from inspection reports such as person centred care and deprivation of liberty safeguards?**
 
 ### Location
 <br><br>
