@@ -70,6 +70,7 @@ We love open data! Fortunately, on this workship all data we are working with is
 <br><br>
 ### Topics
 
+
 During the workshop we are going to cover the topics of:
 
 
@@ -94,7 +95,9 @@ Topic Modelling/ Bayes Classifer
 
 
 With the aim to answer questions such as:
+
 **Can we identify specific themes from inspection reports such as person centred care and deprivation of liberty safeguards?**
+<br><br>
 
 ### Location
 <br><br>
