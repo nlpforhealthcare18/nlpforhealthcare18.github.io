@@ -69,31 +69,25 @@ We love open data! Fortunately, on this workship all data we are working with is
 
 <br><br>
 ### Topics
-
-
+<br><br>
 During the workshop we are going to cover the topics of:
-
-
+<br><br>
 **Data preperation**
 
 Dealing with, preparing and tokenizing unstructured data
-
-
+<br><br>
 **Data cleansing**
 
 Stop words, stemming, and other cleaning methods
-
-
+<br><br>
 **Understanding the data**
 
 Identifing themes within the data, autoclassification
-
-
+<br><br>
 **Data analysis**
 
 Topic Modelling/ Bayes Classifer 
-
-
+<br><br>
 With the aim to answer questions such as:
 
 **Can we identify specific themes from inspection reports such as person centred care and deprivation of liberty safeguards?**
