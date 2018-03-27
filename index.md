@@ -17,9 +17,7 @@
 
 ### Aims
 <br><br>
-
 Over this two day workshop we are aiming to establish a collaborative working group across government to explore the use of NLP methods with health and social care data; as well as developing skills in NLP techniques by working to toegther to learn through direct application to a reserarch question. We are aiming to gain understanding about challenges and suitablitity of NLP for pulic sector analytics, identify opportunities for future research with clear actionable targets for next steps and build capability. 
-
 
 
 
@@ -41,6 +39,7 @@ Over this two day workshop we are aiming to establish a collaborative working gr
 | 15:30         | Understanding the Data  |
 | 17:30         | Wrap Up |
 | 18:00         | Optional extended working and socialising |
+
 
 #### Day 2
 
@@ -65,8 +64,7 @@ Over this two day workshop we are aiming to establish a collaborative working gr
 ### Ethics
 
 <br><br>
-
-We’re working on open data at this workshop, and we love open data. However, we also need to recognise that we’re still at work as Civil Servants, and so need to reflect this in the way we handle this data, the analysis we carry out, and the way we talk about the findings. 
+We love open data! Fortunately, on this workship all data we are working with is just that. However, we also need to recognise that we’re still at work as Civil Servants, and so need to reflect this in the way we handle this data, the analysis we carry out, and the way we talk about the findings. 
 
 
 
