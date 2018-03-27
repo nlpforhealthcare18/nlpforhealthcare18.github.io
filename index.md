@@ -18,7 +18,7 @@
 ### Aims
 <br><br>
 
-To establish a collaborative working group across government to explore the use of NLP methods with health and social care data, develop skills in NLP techniques by working to toegther to learn through direct application to a reserarch question, gain understanding about challenges and suitablitity of NLP for pulic sector analytics, identify opportunities for future research with clear actionable taregts for next steps. 
+Over this two day workshop we are aiming to establish a collaborative working group across government to explore the use of NLP methods with health and social care data; as well as developing skills in NLP techniques by working to toegther to learn through direct application to a reserarch question. We are aiming to gain understanding about challenges and suitablitity of NLP for pulic sector analytics, identify opportunities for future research with clear actionable targets for next steps and build capability. 
 
 
 
@@ -87,7 +87,8 @@ We’re working on open data at this workshop, and we love open data. However, w
 ### Location
 <br><br>
 
-It’s at Office for National Statistics Data Science Campus offices
+Data Science Campus, 
+Office for National Statistics, 
 Government Buildings,
 Cardiff Rd, 
 Duffryn, 
@@ -103,12 +104,9 @@ Newport NP10 8XG
 
 
 ### Support 
-Having trouble with anything? Please talk to one of the helpful people organizing the workshop.
+Having trouble with anything? Want to share any ideas in advance?
 
-
-
-Whatever it is, we’ll help you sort it out.
-
+Whatever it is, contact us here; we're here to help...
 ### Cooperate  
 
 ![](https://s14.postimg.org/7jj4djf3h/slack-icon-10645.png)
