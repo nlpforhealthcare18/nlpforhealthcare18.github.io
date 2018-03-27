@@ -30,12 +30,12 @@ To establish a collaborative working group across government to explore the use 
 
 | Time          |      Activity              |
 | ------------- | ---------------------------|
-| 09.30 - 10:00 | Arrival and registration   |
+| 09.30         | Arrival and registration   |
 | 10:00         | Welcome, plan for the day, and logistics  |
 | 10:10         | Introductions   |
 | 10:30         | Collaborative working  |
 | 11:15         | Data Preperation |
-| 12:30 - 13:00 | Lunch |
+| 12:30         | Lunch |
 | 13:00         | Data Cleaning  |
 | 15:00         | Break  |
 | 15:30         | Understanding the Data  |
@@ -46,9 +46,9 @@ To establish a collaborative working group across government to explore the use 
 
 | Time          |      Activity              |
 | ------------- | ---------------------------|
-| 08.30 - 09:00 | Coffee and catch up   |
+| 08.30         | Coffee and catch up   |
 | 09:00         | Data Analysis |
-| 12:00 - 12:30 | Lunch |
+| 12:00         | Lunch |
 | 12:30         | Data Analysis  |
 | 14:00         | Outputs and Visualisation |
 | 15:30         | Break  |
