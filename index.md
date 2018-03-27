@@ -97,15 +97,16 @@ With the aim to answer questions such as:
 <br><br>
 
 Data Science Campus, 
+
 Office for National Statistics, 
+
 Government Buildings,
+
 Cardiff Rd, 
+
 Duffryn, 
+
 Newport NP10 8XG
-
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2480.0994526143713!2d-3.029754048483698!3d51.56641031410776!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4871e14c9fe9338b%3A0xe6fa7f7cb3829a6d!2sOffice+for+National+Statistics!5e0!3m2!1sen!2suk!4v1521755793383" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-<br>
 
 
 <br><br>
