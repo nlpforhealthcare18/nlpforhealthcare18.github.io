@@ -13,11 +13,11 @@
 
 
 
- 
+[go to GitHub repo](https://github.com/nlpforhealthcare18)
 
 ### Aims
 <br><br>
-Over this two day workshop we are aiming to establish a collaborative working group across government to explore the use of NLP methods with health and social care data; as well as develop skills in NLP techniques by working to toegther to learn through direct application to a reserarch question. We are aiming to gain understanding around the challenges and suitablitity of NLP for pulic sector analytics; identify opportunities for future research with clear actionable targets for next steps and build capability. 
+Over this two day workshop we are aiming to establish a collaborative working group across government to explore the use of NLP methods with health and social care data; as well as develop skills in NLP techniques by working to toegther to learn through direct application to a reserarch question. We are aiming to gain understanding around the challenges and suitablitity of NLP for pulic sector analytics; identify opportunities for future research with clear actionable targets for next steps and build capability.
 <br><br>
 
 ### Agenda
@@ -63,7 +63,7 @@ Over this two day workshop we are aiming to establish a collaborative working gr
 ### Ethics
 
 <br><br>
-We love open data! Fortunately, on this workship all data we are working with is just that. However, we also need to recognise that we’re still at work as Civil Servants, and so need to reflect this in the way we handle this data, the analysis we carry out, and the way we talk about the findings. 
+We love open data! Fortunately, on this workship all data we are working with is just that. However, we also need to recognise that we’re still at work as Civil Servants, and so need to reflect this in the way we handle this data, the analysis we carry out, and the way we talk about the findings.
 
 
 
@@ -86,7 +86,7 @@ Identifing themes within the data, autoclassification
 <br><br>
 **Data analysis**
 
-Topic Modelling/ Bayes Classifer 
+Topic Modelling/ Bayes Classifer
 <br><br>
 With the aim to answer questions such as:
 
@@ -96,15 +96,15 @@ With the aim to answer questions such as:
 ### Location
 <br><br>
 
-Data Science Campus, 
+Data Science Campus,
 
-Office for National Statistics, 
+Office for National Statistics,
 
 Government Buildings,
 
-Cardiff Rd, 
+Cardiff Rd,
 
-Duffryn, 
+Duffryn,
 
 Newport NP10 8XG
 
@@ -113,7 +113,7 @@ Newport NP10 8XG
 
 
 
-### Support 
+### Support
 Having trouble with anything? Want to share any ideas in advance?
 
 Whatever it is, contact us here; we're here to help...
@@ -121,8 +121,6 @@ Whatever it is, contact us here; we're here to help...
 
 ![](https://s14.postimg.org/7jj4djf3h/slack-icon-10645.png)
 
-You can also log in on the 
+You can also log in on the
 
 [NLP Workshop channel on the Goverment Data Science Slack](https://govdatascience.slack.com/messages/G9U8FQ11A/).    
-
-
